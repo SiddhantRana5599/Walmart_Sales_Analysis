@@ -115,4 +115,6 @@ This section will include your analysis findings:
 - **Customer Behavior**: Trends in ratings, payment preferences, and peak shopping hours.
 
 
+![dashboard](https://github.com/user-attachments/assets/34e197e9-ab82-4ac7-b131-f76330100785)
+
 
